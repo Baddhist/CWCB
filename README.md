@@ -1,4 +1,6 @@
 # Cold Waters Control Boxes
+Sets your control boxes vertically above the minimap, anchored to right side and screen bottom.
+# Installation
 
 **Step 1.** Copy the "override" folder.
 \
