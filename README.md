@@ -15,7 +15,7 @@ STEAM\steamapps\common\Cold Waters\ColdWaters_Data\StreamingAssets\
 
 *Config to enable the horizontal panels:*
 
-[HUD LAYOUT]
+*[HUD LAYOUT]
 //All positions in screen pixels
 
 //From element's default anchored screen corner/position
@@ -52,4 +52,4 @@ UpperRightTacMapZoomReadoutPos=0,-45
 UpperRightPeriscopeZoomReadoutPos=0,-45
 UpperRightRecognitionManual=0,0
 UpperLeftPeriscopeESMPos=0,0
-MainCameraFieldOfView=30
+MainCameraFieldOfView=30*
