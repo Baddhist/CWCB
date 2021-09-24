@@ -1,13 +1,12 @@
-# CWCB
-## Cold Waters Control Boxes
+# Cold Waters Control Boxes
 
-Paste "override" folder to:
+**Paste "override" folder to:**
 
 \STEAM\steamapps\common\Cold Waters\ColdWaters_Data\StreamingAssets\
 
 (To disable lines of code add "//" at start of line to disable it or remove "//" to enable.)
 
-Config to enable the horizontal panels:
+*Config to enable the horizontal panels:*
 
 [HUD LAYOUT]
 //All positions in screen pixels
