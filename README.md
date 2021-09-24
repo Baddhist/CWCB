@@ -5,6 +5,8 @@
 \STEAM\steamapps\common\Cold Waters\ColdWaters_Data\StreamingAssets\
 
 
+
+\
 (To disable lines of code add "//" at start of line to disable it or remove "//" to enable.)
 
 *Config to enable the horizontal panels:*
