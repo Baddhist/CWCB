@@ -1,11 +1,15 @@
 # Cold Waters Control Boxes
 
-**Paste "override" folder to:**
+**Step 1. Copy the "override" folder.**
+\
+\
+**Step 2. Paste "override" folder to:**
 
-\STEAM\steamapps\common\Cold Waters\ColdWaters_Data\StreamingAssets\
-
-
-
+STEAM\steamapps\common\Cold Waters\ColdWaters_Data\StreamingAssets\
+\
+\
+\
+\
 \
 (To disable lines of code add "//" at start of line to disable it or remove "//" to enable.)
 
@@ -13,7 +17,9 @@
 
 [HUD LAYOUT]
 //All positions in screen pixels
+
 //From element's default anchored screen corner/position
+
 BottomLeftPanelPos=0,0
 
 //Toolbar position 0,0, (1 to anchor to minimap or 0 for no anchor)
